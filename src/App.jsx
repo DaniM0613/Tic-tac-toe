@@ -1,5 +1,5 @@
 
-import './App.css'
+import Tictactoe from './components/Tictactoe/Tictactoe'
 
 function App() {
  
@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <div>
-        
+        <Tictactoe/>
       </div>
       
     </>
